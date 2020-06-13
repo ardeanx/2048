@@ -6,8 +6,13 @@ Proyek Game 2048 dirancang dalam bahasa C ++. Sistem ini didasarkan pada konsep 
 
 Fitur:
 
-panah atas - untuk bergerak ke atas
-panah bawah - untuk bergerak ke bawah
-panah kiri– untuk menggeser angka ke kiri
-panah kanan– untuk menggeser angka ke kanan
+panah atas - untuk bergerak ke atas.
+panah bawah - untuk bergerak ke bawah.
+panah kiri– untuk menggeser angka ke kiri.
+panah kanan– untuk menggeser angka ke kanan.
+
+# Created By Ardean Bima Saputra
+Please Support My Ass on YouTube : https://www.youtube.com/channel/UC1Hu0kEfFYR1075s6WPr91w
+
+My Portofolio : astrobox.epizy.com
 
